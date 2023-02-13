@@ -9,4 +9,4 @@ the system can be downloaded as an application or used over the web
 
 
 
-Live Project can be found here https://eclipsejute.ga/
+Live Project can be found here http://eclipsejute.ga/
